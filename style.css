@@ -91,7 +91,7 @@ html, body {
   transform: translate(-50%, -50%);
   width: 50%;
   height: 50%;
-  background: url(album-art.jpg) no-repeat 50% 50%;
+  background: url(album-art.jpeg) no-repeat 50% 50%;
   background-size: cover;
   opacity: 0;
   animation: appear-text 0.0001s linear forwards;
